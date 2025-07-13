@@ -8,5 +8,6 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
+  brightness = map(temp, 48, 28, 0, 255);
 
 }
