@@ -18,5 +18,8 @@ void loop() {
   Serial.print(millis());
   Serial.print("Temprature:");
   Serial.print(temp, 1);
+  Serial.print(" Humidity:");
+  Serial.print(humd, 1);
+  Serial.print("%");
 
 }
