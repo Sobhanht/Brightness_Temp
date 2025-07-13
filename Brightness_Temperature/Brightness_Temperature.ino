@@ -12,5 +12,8 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   float humd = sht20.readHumidity();
-  
+  float temp = sht20.readTemperature();
+
+  Serial.print("Time");
+  Serial.print(millis());
 }
