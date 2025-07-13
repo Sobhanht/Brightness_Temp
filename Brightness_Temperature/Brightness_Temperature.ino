@@ -6,10 +6,10 @@ void setup() {
   sht20.initSHT20();
   delay(100);
   sht20.checkSHT20();
-  
+
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
-
+  float humd = sht20.readHumidity();
 }
