@@ -14,4 +14,6 @@ void loop() {
   Serial.println();
   delay(1000);
 
+  analogWrite(ledPin, brightness);
+
 }
