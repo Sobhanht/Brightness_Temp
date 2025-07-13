@@ -12,4 +12,5 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   float humd = sht20.readHumidity();
+  
 }
