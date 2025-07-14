@@ -27,7 +27,7 @@ After executing this line, you can use sht20 in the setup() and loop() functions
 </br>
 Hint2 :</br>
 Maximum brightness of LED analog value = 255 </br>
-Minimum brightness of LED analog value = 1 </br>
+Minimum brightness of LED analog value = 0 </br>
 Maximum temperature value received from the sensor = 48 </br>
 Minimum temperature value received from the sensor = 28 </br>
 <img width="429" height="125" alt="image" src="https://github.com/user-attachments/assets/994fd7b5-dd2f-455f-bb7f-ac2efd0016ed" /> </br>
