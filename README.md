@@ -12,7 +12,7 @@ If the Temperature going ahead of 28 c , the LED powerd on and its light increas
 </br>
 # *Hints :</br>
 </br>
-Hint1 : DFRobot_SHT20 sht20(&Wire, SHT20_I2C_ADDR); </br>
+Hint1 :</br> " DFRobot_SHT20 sht20(&Wire, SHT20_I2C_ADDR); " </br>
 
 1- Connecting to the SHT20 sensor via I2C.</br>
 2- Allows reading of temperature and humidity data.</br>
