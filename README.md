@@ -17,19 +17,20 @@ Hint1 : DFRobot_SHT20 sht20(&Wire, SHT20_I2C_ADDR); </br>
 1- Connecting to the SHT20 sensor via I2C.</br>
 2- Allows reading of temperature and humidity data.</br>
 
-           <img width="373" height="110" alt="image" src="https://github.com/user-attachments/assets/a44c05bc-0c73-431d-80c9-016dfce78928" />
+<img width="375" height="105" alt="image" src="https://github.com/user-attachments/assets/088a6dbd-040e-4e46-ab5c-9a3a4e5a0435" />
+
 </br>
 </br>
 
 After executing this line, you can use sht20 in the setup() and loop() functions to call functions related to the SHT20 sensor, such as sht20.initSHT20() to initialize the sensor or sht20.readTemperature() to read the temperature ; for examle :</br>
-           <img width="360" height="86" alt="image" src="https://github.com/user-attachments/assets/b029ddbc-6bda-40fc-97e8-e5aa8a80b15c" /> </br>
+<img width="360" height="86" alt="image" src="https://github.com/user-attachments/assets/b029ddbc-6bda-40fc-97e8-e5aa8a80b15c" /> </br>
 </br>
 Hint2 :</br>
 Maximum brightness of LED analog value = 255 </br>
 Minimum brightness of LED analog value = 1 </br>
 Maximum temperature value received from the sensor = 48 </br>
 Minimum temperature value received from the sensor = 28 </br>
-            <img width="429" height="125" alt="image" src="https://github.com/user-attachments/assets/994fd7b5-dd2f-455f-bb7f-ac2efd0016ed" /> </br>
+<img width="429" height="125" alt="image" src="https://github.com/user-attachments/assets/994fd7b5-dd2f-455f-bb7f-ac2efd0016ed" /> </br>
 </br>
 </br>
 Board parts : </br>
