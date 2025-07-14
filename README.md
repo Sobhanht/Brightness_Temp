@@ -1,4 +1,4 @@
-# LED Light and Temperature
+<img width="373" height="110" alt="image" src="https://github.com/user-attachments/assets/7f002f9e-d1b7-4c41-8dd0-167369c64cd2" /># LED Light and Temperature
 
 This project is about how to increase or decrease the LED light by increasing or decreasing temprature. </br>
 
@@ -17,7 +17,8 @@ Hint1 : DFRobot_SHT20 sht20(&Wire, SHT20_I2C_ADDR); </br>
 1- Connecting to the SHT20 sensor via I2C.</br>
 2- Allows reading of temperature and humidity data.</br>
 
-<img width="373" height="110" alt="image" src="https://github.com/user-attachments/assets/1d95865b-1877-4e47-b8c3-79b4bf621309" /></br>
+<img width="373" height="110" alt="image" src="https://github.com/user-attachments/assets/a44c05bc-0c73-431d-80c9-016dfce78928" />
+</br>
 </br>
 
 After executing this line, you can use sht20 in the setup() and loop() functions to call functions related to the SHT20 sensor, such as sht20.initSHT20() to initialize the sensor or sht20.readTemperature() to read the temperature ; for examle :</br>
@@ -34,7 +35,8 @@ Minimum temperature value received from the sensor = 28 </br>
 Board parts : </br>
 </br>
 
-<img width="1280" height="607" alt="image" src="https://github.com/user-attachments/assets/068b4a18-5622-43ee-a2ae-8fe84238ccf2" /></br>
+<img width="1280" height="606" alt="image" src="https://github.com/user-attachments/assets/778249e1-c5d4-4a94-b652-6e220a162129" />
+</br>
 
  1- SHT20 Temperature and Humedity sensor .</br>
  2- ESP8266 micro controler . </br>
