@@ -4,9 +4,13 @@ This project is about how to increase or decrease the LED light by increasing or
 
 List of libraries using in this project :</br>
 "DFRobot_SHT20.h"</br>
+</br>
+</br>
 If the Temperature going ahead of 28 c , the LED powerd on and its light increases by increasing the Temperature.</br>
 </br>
-*Hints :</br>
+</br> 
+</br>
+# *Hints :</br>
 </br>
 Hint1 : DFRobot_SHT20 sht20(&Wire, SHT20_I2C_ADDR); </br>
 
@@ -25,6 +29,7 @@ Minimum brightness of LED analog value = 1 </br>
 Maximum temperature value received from the sensor = 48 </br>
 Minimum temperature value received from the sensor = 28 </br>
 <img width="429" height="125" alt="image" src="https://github.com/user-attachments/assets/994fd7b5-dd2f-455f-bb7f-ac2efd0016ed" /> </br>
+</br>
 </br>
 Board parts : </br>
 </br>
