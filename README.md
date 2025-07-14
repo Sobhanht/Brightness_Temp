@@ -23,4 +23,15 @@ Maximum temperature value received from the sensor = 48
 Minimum temperature value received from the sensor = 28
 <img width="429" height="125" alt="image" src="https://github.com/user-attachments/assets/994fd7b5-dd2f-455f-bb7f-ac2efd0016ed" />
 
+Board parts :
+
+
+<img width="1280" height="607" alt="image" src="https://github.com/user-attachments/assets/068b4a18-5622-43ee-a2ae-8fe84238ccf2" />
+
+
+
+ 1- SHT20 Temperature and Humedity sensor .
+ 2- ESP8266 micro controler .
+ 3- Onboard LED .
+
 
